@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and Athlete!!
 
-- 🌱 I'm currently learning Python at Uni and React with Node as it is my main job 🤣
+- 🌱 I'm currently learning Python at Uni and React with Node as it is my main job 🤓
 - 🥅 2020 Goals: don't get corona
 - ⚡ Fact: I love to run and play computer games like Counter Strike
 
