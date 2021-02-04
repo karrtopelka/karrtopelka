@@ -14,8 +14,6 @@
 [<img width="50px" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/>][telegram]
 [<img width="50px" src="https://img.icons8.com/clouds/100/000000/youtube-music.png"/>][youtubemusic]
 
-<br />
-
 ---
 
 ### Top Languages
