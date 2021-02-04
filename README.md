@@ -4,15 +4,17 @@
 
 ## I'm a Student, Developer, and Athlete!!
 
-- 🌱 I'm currently learning Python at Uni and React with Node as it is my main job 🤓
-- 🥅 2020 Goals: don't get corona
-- ⚡ Fact: I love to run and play computer games like Counter Strike
+- 🌱 I'm currently learning C# at my University and React as it is my main job 🤓
+- 🥅 2021 Goals: don't get corona
 
 ### Connect with me:
 
 [<img align="left" alt="karrt-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="karrt-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="karrt-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="karrt-telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+### Listen music with me:
+[<img align="left" alt="karrt-ym" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtubemusic.svg" />][webdevplaylist]
 
 <br />
 
