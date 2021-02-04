@@ -9,12 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="karrt-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="karrt-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="karrt-telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-### Listen music with me:
-[<img align="left" alt="karrt-ym" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtubemusic.svg" />][webdevplaylist]
+[<img width="50px" src="https://img.icons8.com/clouds/50/000000/linkedin.png"/>][linkedin]
+[<img width="50px" src="https://img.icons8.com/clouds/100/000000/instagram-new--v2.png"/>][instagram]
+[<img width="50px" src="https://img.icons8.com/clouds/100/000000/telegram-app.png"/>][telegram]
+[<img width="50px" src="https://img.icons8.com/clouds/100/000000/youtube-music.png"/>][youtubemusic]
 
 <br />
 
@@ -27,4 +25,4 @@
 [telegram]: https://t.me/karrtopelka
 [instagram]: https://instagram.com/karrtopelka
 [linkedin]: https://www.linkedin.com/in/karrtopelka/
-[webdevplaylist]: https://music.youtube.com/playlist?list=PLSr_oFUba1juFtND9Y7VTkHLdHwy0H1wL
+[youtubemusic]: https://music.youtube.com/playlist?list=PLSr_oFUba1juFtND9Y7VTkHLdHwy0H1wL
