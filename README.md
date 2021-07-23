@@ -2,13 +2,20 @@
 
 [![Website](https://img.shields.io/website?label=instagram&style=for-the-badge&logo=instagram&color=ff69b4&url=https%3A%2F%2Finstagram.com)](https://instagram.com/karrtopelka)
 
-## I'm a Student, Full-Stack Developer, and Athlete!
+## I'm a vaccinated Student, Full-Stack vaccinated Developer, and vaccinated Athlete!
 
-- 🌱 Currently working on three projects:
-- - Team Lead at University Project App
-- - Full Stack developer at my friends and I project
-- - And last one at my work 🕵️‍ 
-- 🥅 2021 Goals: don't get corona, master the skill of transferring data in real-time, as well as master the typescript
+- 🌱 every day working process looks like:
+- ### YTROM
+- - pres kachat
+- - T) begut
+- - tyrnuk
+- - anjymania
+- ### VECHEROM
+- - pres kachat
+- - begut
+- - tyrnuk
+- - anjymania
+- 🥅 2021 Goals: master the skill of transferring data in real-time, as well as master the typescript and backend
 
 ### Connect with me:
 
