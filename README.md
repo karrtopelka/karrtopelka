@@ -33,4 +33,4 @@
 [telegram]: https://t.me/karrtopelka
 [instagram]: https://instagram.com/karrtopelka
 [linkedin]: https://www.linkedin.com/in/karrtopelka/
-[youtubemusic]: https://music.youtube.com/playlist?list=PLSr_oFUba1juFtND9Y7VTkHLdHwy0H1wL
+[youtubemusic]: https://music.youtube.com/playlist?list=PL-m5gilao-U0e1eSMxRhhN2U20uDf6t1Z
