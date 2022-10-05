@@ -3,7 +3,7 @@
 [<img alt="karrtopelka | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=fff" />][instagram]
 [<img alt="karrtopelka | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
 
-## I'm a vaccinated Student, Full-Stack vaccinated Developer, and vaccinated Athlete!
+## Front-end React engineer
 
 ### 💻 Tech Stack:
 <img alt="react" src="https://img.shields.io/badge/react-28104E.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=6237A0" />&nbsp;
