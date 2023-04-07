@@ -7,7 +7,6 @@
 
 ### 💻 Tech Stack:
 <img alt="react" src="https://img.shields.io/badge/react-28104E.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=6237A0" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-28104E.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=6237A0" />&nbsp;
 <img alt="typescript" src="https://img.shields.io/badge/typescript-28104E.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=6237A0" />&nbsp;
 <img alt="jest" src="https://img.shields.io/badge/jest-28104E.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=6237A0" />
 <img alt="node.js" src="https://img.shields.io/badge/node.js-28104E.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=6237A0" />&nbsp;
